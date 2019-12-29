@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://benluncy.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-12-27T09:44:00.353Z</updated>
+    <title>Benluncy</title>
+    <updated>2019-12-29T06:46:55.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://benluncy.github.io/"/>
     <link rel="self" href="https://benluncy.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>唧唧复唧唧</subtitle>
     <logo>https://benluncy.github.io//images/avatar.png</logo>
     <icon>https://benluncy.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Benluncy</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://benluncy.github.io//post/hello-gridea</id>
